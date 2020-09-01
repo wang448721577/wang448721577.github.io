@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>link prediction on Website of Wang-hongjue</title>
+    <link>https://wang448721577.github.io/tags/link-prediction/</link>
+    <description>Recent content in link prediction on Website of Wang-hongjue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wang448721577.github.io/tags/link-prediction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CD-Based Indices for Link Prediction in Complex Network</title>
+      <link>https://wang448721577.github.io/post/cd-based-indices-for-link-prediction-in-complex-network/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang448721577.github.io/post/cd-based-indices-for-link-prediction-in-complex-network/</guid>
+      <description>&lt;p&gt;Lots of similarity-based algorithms have been designed to deal with the problem of link prediction in the past decade. In order to improve prediction accuracy, a novel cosine similarity
+index CD based on distance between nodes and cosine value between vectors is proposed
+in this paper. Firstly, node coordinate matrix can be obtained by node distances which are
+different from distance matrix and row vectors of the matrix are regarded as coordinates of
+nodes. Then, cosine value between node coordinates is used as their similarity index. A
+local community density index LD is also proposed. Then, a series of CD-based indices
+include CD-LD-k, CD&lt;em&gt;LD-k, CD-k and CDI are presented and applied in ten real networks.
+Experimental results demonstrate the effectiveness of CD-based indices. The effects of network clustering coefficient and assortative coefficient on prediction accuracy of indices are
+analyzed. CD-LD-k and CD&lt;/em&gt;LD-k can improve prediction accuracy without considering the
+assortative coefficient of network is negative or positive. According to analysis of relative
+precision of each method on each network, CD-LD-k and CD*LD-k indices have excellent
+average performance and robustness. CD and CD-k indices perform better on positive
+assortative networks than on negative assortative networks. For negative assortative networks, we improve and refine CD index, referred as CDI index, combining the advantages
+of CD index and evolutionary mechanism of the network model BA. Experimental results
+reveal that CDI index can increase prediction accuracy of CD on negative assortative
+networks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146727&#34;&gt;Wang, Tao , H. Wang , and X. Wang . &amp;ldquo;CD-Based Indices for
+Link Prediction in Complex Network.&amp;rdquo; Plos One 11(2016).&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

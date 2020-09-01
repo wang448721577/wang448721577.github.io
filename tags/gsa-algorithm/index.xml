@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GSA algorithm on Website of Wang-hongjue</title>
+    <link>https://wang448721577.github.io/tags/gsa-algorithm/</link>
+    <description>Recent content in GSA algorithm on Website of Wang-hongjue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wang448721577.github.io/tags/gsa-algorithm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recognizing number of communities and detecting community structures in complex networks</title>
+      <link>https://wang448721577.github.io/post/recognizing-number-of-communities-and-detecting-community-structures-in-complex-networks/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang448721577.github.io/post/recognizing-number-of-communities-and-detecting-community-structures-in-complex-networks/</guid>
+      <description>&lt;p&gt;Recognizing number of communities and detecting community structures of complex network
+are discussed in this paper. As a visual and feasible algorithm, block model has been
+successfully applied to detect community structures in complex network. In order to measure
+the quality of the block model, we first define an objective function WQ value. For
+obtaining block model B of a network, GSA algorithm is applied to optimize WQ with the help
+of random keys. After executing processes AO (Adding Ones) and RO (Removing Ones) on block
+model B, the number of communities of a network can be recognized distinctly. Furthermore,
+based on the advantage of block model that its sort order of nodes is in correspondence
+with sort order of communities, so a new fuzzy boundary algorithm for detecting community
+structures is proposed and successfully applied to some representative networks. Finally,
+experimental results demonstrate the feasibility of the proposed algorithm.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0378437118312470&#34;&gt;Wang, Hongjue , and T. Wang . &amp;ldquo;Recognizing number of communities and detecting
+community structures in complex networks.&amp;rdquo; arXiv (2018).&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

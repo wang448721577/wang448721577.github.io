@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Core-node on Website of Wang-hongjue</title>
+    <link>https://wang448721577.github.io/tags/core-node/</link>
+    <description>Recent content in Core-node on Website of Wang-hongjue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wang448721577.github.io/tags/core-node/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A novel cosine distance for detecting communities in complex networks</title>
+      <link>https://wang448721577.github.io/post/a-novel-cosine-distance-for-detecting-communities-in-complex-networks/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang448721577.github.io/post/a-novel-cosine-distance-for-detecting-communities-in-complex-networks/</guid>
+      <description>&lt;p&gt;Detecting communities is significant to understand the potential structures and functions
+of complex systems. In order to detect communities more accurately and reasonably, a
+novel algorithm is proposed based on cosine distance and core-node in this paper. Cosine
+distances between nodes are regarded as their similarity measure and network node vectors can be extracted directly from the similarity matrix without calculating eigenvectors.
+Core-nodes as the initial communities are found by cosine distance threshold and degree
+threshold. Furthermore, the initial communities are expanded by adding other nodes with
+the nearest cosine distance to core-nodes. Through changing degree and cosine distance
+thresholds constantly, the optimal community structure of complex networks can be obtained by optimizing modularity with high accuracy. Experimental results on both realworld and synthetic networks demonstrate the feasibility and effectiveness of the proposed
+algorithm.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0378437115005233&#34;&gt;Wang, Tao , H. Wang , and X. Wang . &amp;ldquo;A novel cosine distance for detecting communities in complex networks.&amp;rdquo;
+Physica A Statal Mechanics &amp;amp; Its Applications 437(2015):21-35.&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
