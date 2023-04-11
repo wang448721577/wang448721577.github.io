@@ -1,4 +1,4 @@
-<img src="./王洪珏.jpg" width="200px" alt="alt text"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/>
+<img src="./王洪珏.jpg" width="200px" alt="alt text"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="100"/>
 
 ## 🎉欢迎访问王洪珏（Wang-Hongjue）的学术主页
 ## 邮箱：wanghongjue@bwu.edu.cn
@@ -31,7 +31,8 @@
 </table>
 
 ----------------------------------------------------------------------------------
-## 访问次数：![Visitor Count](https://profile-counter.glitch.me/{wang448721577}/count.svg)
+## 访问次数：
+![Visitor Count](https://profile-counter.glitch.me/{wang448721577}/count.svg)
 
 ![tip](https://badgen.net/badge/MATLAB/2023/orange?icon=MATLAB)     ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
 
