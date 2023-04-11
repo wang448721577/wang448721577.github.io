@@ -1,4 +1,4 @@
-![风景](./王洪珏.jpg)
+![风景](./王洪珏.jpg){width=500px}
 ## 🎉欢迎访问王洪珏（Wang-Hongjue）的学术主页
 ## 邮箱：wanghongjue@bwu.edu.cn
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> Hey! Nice to see you.</h1>
