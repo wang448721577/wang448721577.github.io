@@ -1,9 +1,12 @@
 ![风景](./image_name.jpg)
+<head>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-AyN/QwZOzDRDOq2yuPc4JOt9XokpCjsbRLevT+fhSXRyOoMbI6Emz0xv8cWJgaZG" crossorigin="anonymous">
+</head>
 ## 🎉欢迎访问王洪珏（Wang-Hongjue）的学术主页
 ## 邮箱：wanghongjue@bwu.edu.cn
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> 我来自 <img src="https://p8.itc.cn/images01/20200622/e1b76367797440098383fdbeb64ae09d.jpeg" width="30"/> <b>山东，济宁</b>. </p>
+<p>Welcome to my page!  我来自 <img src="https://p8.itc.cn/images01/20200622/e1b76367797440098383fdbeb64ae09d.jpeg" width="30"/> <b>山东，济宁</b>. </p>
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=wang448721577&show_icons=true) 
 
