@@ -13,4 +13,4 @@
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2" />
