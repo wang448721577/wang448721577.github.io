@@ -8,7 +8,4 @@
 
 ![github统计](https://stats.justsong.cn/api/github?username=wang448721577&lang=zh-CN)
 
-![B站统计](https://stats.justsong.cn/api/bilibili/?username=bili_60131403671&theme=dark)
-
-![知乎统计]([https://stats.justsong.cn/api/bilibili/?id=1643462710](https://stats.justsong.cn/api/zhihu?username={username:string}&theme=dark)
 
