@@ -1,4 +1,4 @@
-## 王洪珏  Wang-Hongjue
+## 欢迎访问王洪珏（Wang-Hongjue）的学术主页
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=wang448721577&show_icons=true) 
 
