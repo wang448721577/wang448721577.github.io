@@ -1,5 +1,5 @@
 ## 欢迎访问王洪珏（Wang-Hongjue）的学术主页
-##邮箱：wanghongjue@bwu.edu.cn
+## 邮箱：wanghongjue@bwu.edu.cn
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=wang448721577&show_icons=true) 
 
