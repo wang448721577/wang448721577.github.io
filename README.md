@@ -13,5 +13,6 @@
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
 
 <p>
+  <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
 <a href="CSDN主页"><img src="https://img.shields.io/static/v1](https://blog.csdn.net/u012167761?spm=1000.2115.3001.5343?label=Blog&message=CSDN&color=red"/></a>
 </p>
