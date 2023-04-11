@@ -1,4 +1,4 @@
-![alt text](./image_folder/image_name.png)
+![风景](./mage_name.jpg)
 ## 🎉欢迎访问王洪珏（Wang-Hongjue）的学术主页
 ## 邮箱：wanghongjue@bwu.edu.cn
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> Hey! Nice to see you.</h1>
