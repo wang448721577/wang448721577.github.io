@@ -15,9 +15,6 @@
 
 ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
 
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello;Hi" />
-
 💖🎉😄✨⚡🍵
 ------------
 
