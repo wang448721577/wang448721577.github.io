@@ -41,8 +41,9 @@
 
 <h3>其他：</h3>
 <ul>
-      <li><td><a href="https://scholar.google.com/citations?hl=zh-CN&user=ywyxk5wAAAAJ&view_op=list_works&gmla=ABEO0YoM9Bp625IppC9tXp0Ud06He_bk0-HJfdcfhHNrcR9lt2cJpxsdh3des9xfL9wx7hiQ9OmeE5iISBUJGZPZjslv6neM76ziTOiPqz9j43ljeRHHx6Ojwuy4mP0yD_UHgmU"><b>Google学术主页</b></a></td></li>
-      <li><td><a href="https://blog.sciencenet.cn/home.php"><b>科学网主页</b></a></td></li>
+      <li><td><a href="https://scholar.google.com/citations?hl=zh-CN&user=ywyxk5wAAAAJ&view_op=list_works&gmla=ABEO0YoM9Bp625IppC9tXp0Ud06He_bk0-HJfdcfhHNrcR9lt2cJpxsdh3des9xfL9wx7hiQ9OmeE5iISBUJGZPZjslv6neM76ziTOiPqz9j43ljeRHHx6Ojwuy4mP0yD_UHgmU"><b>Google学术</b></a></td></li>
+      <li><td><a href="https://blog.sciencenet.cn/home.php"><b>科学网</b></a></td></li>
+      <li><td><a href="https://github.com/wang448721577"><b>Github</b></a></td></li>
 </ul>
 ----------------------------------------------------------------------------------
 
