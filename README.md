@@ -33,6 +33,9 @@
 	 <br/><i>Detecting communities is significant to understand the potential structures and functions of complex systems. In order to detect communities more accurately and reasonably, a novel algorithm is proposed based on cosine distance and core-node in this paper. Cosine distances between nodes are regarded as their similarity measure and network node vectors can be extracted directly from the similarity matrix without calculating eigenvectors. Core-nodes as the initial communities are found by cosine distance threshold and degree threshold. Furthermore, the initial communities are expanded by adding other nodes with the nearest cosine distance to core-nodes. Through changing degree and cosine distance thresholds constantly, the optimal community structure of complex networks can be obtained by optimizing modularity with high accuracy. Experimental results on both real-world and synthetic networks demonstrate the feasibility and effectiveness of the proposed algorithm.</i></li>
 </ul>
 --------------------------------------------------------------------------------------------------------
+<h3>团队：</h3>
+
+--------------------------------------------------------------------------------------------------------
 <h3>项目：</h3>
 <ul>
       <li><td><a href="wang448721577.github.io"><b>项目名称编号等</b></a></td></li>
