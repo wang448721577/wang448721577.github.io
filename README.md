@@ -3,11 +3,10 @@
 # 🎉欢迎访问王洪珏（Wang-Hongjue）的学术主页
 # 邮箱：wanghongjue@bwu.edu.cn
 # 地址：北京-通州-北京物资学院-信息学院
-
 ---------------------------------------------------------------
 <h3>论文：</h3>
 <ul>
-	<li>
+	<li><a href="https://www.nature.com/articles/s41598-023-32832-w">
 	<b>Wang, HJ., Hu, ZL., Tao, L. et al. The locatability of Pearson algorithm for multi-source location in complex networks. Sci Rep 13, 5692 (2023). </b></a>
 	 <br/><i>We study locating propagation sources in complex networks. We proposed an multi-source location algorithm for different propagation dynamics by using sparse observations. Without knowing the propagation dynamics and any dynamic parameters, we can calculate node centrality based on the character that positive correlation between inform time of nodes and geodesic distance between nodes and sources. The algorithm is robust and have high location accuracy for any number of sources. We study locatability of the proposed source location algorithm and present a corresponding strategy to select observer nodes based on greedy algorithm. All simulations on both model and real-world networks proved the feasibility and validity of this algorithm.</i></li>
 	<li><a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac8db3">
