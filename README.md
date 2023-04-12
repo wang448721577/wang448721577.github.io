@@ -1,8 +1,8 @@
 <img src="./王洪珏.jpg" width="200px" alt="alt text">
 
-## 🎉欢迎访问王洪珏（Wang-Hongjue）的学术主页
-## 邮箱：wanghongjue@bwu.edu.cn
-## 地址：北京-通州-北京物资学院-信息学院
+# 🎉欢迎访问王洪珏（Wang-Hongjue）的学术主页
+# 邮箱：wanghongjue@bwu.edu.cn
+# 地址：北京-通州-北京物资学院-信息学院
 
 ---------------------------------------------------------------
 <h3>论文：</h3>
