@@ -2,7 +2,7 @@
 
 # 🎉欢迎访问王洪珏（Wang-Hongjue）的学术主页
 # 邮箱：wanghongjue@bwu.edu.cn
-# 地址：北京-通州-[北京物资学院](https://www.bwu.edu.cn/)-[信息学院](http://xxxy.bwu.edu.cn/)
+# 地址：<img src="./五星红旗.png" width="50px" alt="alt text">[中国](https://baike.baidu.com/link?url=BdlunEvIs6v22hr1RfAAfWM8pp4I0lHeipb3Q2vrxpiY7Dtf6mkab_szv_C_20H0Lsqhu9uoOe8J3Y3ddm-WjNfn2wWYX4hGrH6QrfTaGySj5tG2ISxYpplBI4dWo9pjjmC_5HYPUmO8UdZpm_R8t5KVBhucC3eUhpz6jtq0kJi)-[北京](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%B8%82/126069?fromModule=lemma_search-box&fromtitle=%E5%8C%97%E4%BA%AC&fromid=128981)-[通州](https://baike.baidu.com/item/%E9%80%9A%E5%B7%9E%E5%8C%BA/5203?fromModule=lemma_search-box)-[北京物资学院](https://www.bwu.edu.cn/)-[信息学院](http://xxxy.bwu.edu.cn/)
 ---------------------------------------------------------------
 <h3>论文：</h3>
 <ul>
@@ -55,9 +55,40 @@
       <li><td><a href="https://campus.swarma.org/"><b>集智学园</b></a></td></li>
       <li><td><a href="https://www.koushare.com/"><b>寇享</b></a></td></li>
 </ul>
-
+----------------------------------------------------------------------------------
+<h3>领域大牛：</h3>
+<ul>
+      <li><td><a href="http://www-personal.umich.edu/~mejn/"><b>Mark Newman</b></a></td></li>
+      <li><td><a href="https://barabasi.com/publications"><b>ALBERT-LÁSZLÓ BARABÁSI</b></a></td></li>
+</ul>
+----------------------------------------------------------------------------------
+<h3>数据集：</h3>
+<ul>
+      <li><td><a href="http://vlado.fmf.uni-lj.si/pub/networks/Data/default.htm"><b>Pajek datasets</b></a></td></li>
+      <li><td><a href="https://snap.stanford.edu/data/"><b>Stanford Large Network Dataset Collection</b></a></td></li>
+</ul>
 
 ----------------------------------------------------------------------------------
+<h3>网络可视化：</h3>
+<ul>
+      <li><td><a href="https://cytoscape.org/"><b>Cytoscape</b></a></td></li>
+      <li><td><a href="https://sourceforge.net/projects/citespace/"><b>CiteSpace</b></a></td></li>
+      <li><td><a href="https://www.vosviewer.com/"><b>VOSviewer</b></a></td></li>
+      <li><td><a href="https://gephi.org/"><b>Gephi</b></a></td></li>
+</ul>
+----------------------------------------------------------------------------------
+<h3>神奇工具：</h3>
+<ul>
+      <li><td><a href="https://cc.ai55.cc/"><b>ChatGPT</b></a></td></li>
+      <li><td><a href="https://getquicker.net/Download"><b>Quicker</b></a></td></li>
+      <li><td><a href="https://everything.en.softonic.com/"><b>Everything</b></a></td></li>
+      <li><td><a href="https://www.7-zip.org/"><b>7-Zip</b></a></td></li>
+      <li><td><a href="https://www.snipaste.com/"><b>Snipaste</b></a></td></li>
+      <li><td><a href="http://www.wofficebox.com/"><b>万彩办公大师</b></a></td></li>
+</ul>
+----------------------------------------------------------------------------------
+
+
 ## 访问次数：
 ![Visitor Count](https://profile-counter.glitch.me/{wang448721577}/count.svg)
 
