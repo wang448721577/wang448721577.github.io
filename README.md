@@ -2,7 +2,7 @@
 
 # 🎉欢迎访问王洪珏（Wang-Hongjue）的学术主页
 # 邮箱：wanghongjue@bwu.edu.cn
-# 地址：北京-通州-北京物资学院-信息学院
+# 地址：北京-通州-[北京物资学院](https://www.bwu.edu.cn/)-[信息学院](http://xxxy.bwu.edu.cn/)
 ---------------------------------------------------------------
 <h3>论文：</h3>
 <ul>
@@ -41,14 +41,23 @@
       <li><td><a href="wang448721577.github.io"><b>项目名称编号等</b></a></td></li>
 </ul>
 
-<h3>其他：</h3>
+<h3>其他个人主页：</h3>
 <ul>
       <li><td><a href="https://scholar.google.com/citations?hl=zh-CN&user=ywyxk5wAAAAJ&view_op=list_works&gmla=ABEO0YoM9Bp625IppC9tXp0Ud06He_bk0-HJfdcfhHNrcR9lt2cJpxsdh3des9xfL9wx7hiQ9OmeE5iISBUJGZPZjslv6neM76ziTOiPqz9j43ljeRHHx6Ojwuy4mP0yD_UHgmU"><b>Google学术</b></a></td></li>
       <li><td><a href="https://blog.sciencenet.cn/home.php"><b>科学网</b></a></td></li>
       <li><td><a href="https://github.com/wang448721577"><b>Github</b></a></td></li>
 </ul>
 ----------------------------------------------------------------------------------
+<h3>科研网站：</h3>
+<ul>
+      <li><td><a href="https://www.linkresearcher.com/"><b>领研</b></a></td></li>
+      <li><td><a href="https://swarma.org/"><b>集智俱乐部</b></a></td></li>
+      <li><td><a href="https://campus.swarma.org/"><b>集智学园</b></a></td></li>
+      <li><td><a href="https://www.koushare.com/"><b>寇享</b></a></td></li>
+</ul>
 
+
+----------------------------------------------------------------------------------
 ## 访问次数：
 ![Visitor Count](https://profile-counter.glitch.me/{wang448721577}/count.svg)
 
