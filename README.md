@@ -1,8 +1,8 @@
 <img src="./王洪珏.jpg" width="200px" alt="alt text">
 
-# 🎉欢迎访问王洪珏（Wang-Hongjue）的学术主页
+# 欢迎访问王洪珏（Wang-Hongjue）的学术主页
 # 邮箱：wanghongjue@bwu.edu.cn
-# 地址：<img src="./五星红旗.png" width="50px" alt="alt text">[中国](https://baike.baidu.com/link?url=BdlunEvIs6v22hr1RfAAfWM8pp4I0lHeipb3Q2vrxpiY7Dtf6mkab_szv_C_20H0Lsqhu9uoOe8J3Y3ddm-WjNfn2wWYX4hGrH6QrfTaGySj5tG2ISxYpplBI4dWo9pjjmC_5HYPUmO8UdZpm_R8t5KVBhucC3eUhpz6jtq0kJi)-[北京](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%B8%82/126069?fromModule=lemma_search-box&fromtitle=%E5%8C%97%E4%BA%AC&fromid=128981)-[通州](https://baike.baidu.com/item/%E9%80%9A%E5%B7%9E%E5%8C%BA/5203?fromModule=lemma_search-box)-[北京物资学院](https://www.bwu.edu.cn/)-[信息学院](http://xxxy.bwu.edu.cn/)
+# 地址：<img src="./五星红旗.png" width="40px" alt="alt text">[中国](https://baike.baidu.com/link?url=BdlunEvIs6v22hr1RfAAfWM8pp4I0lHeipb3Q2vrxpiY7Dtf6mkab_szv_C_20H0Lsqhu9uoOe8J3Y3ddm-WjNfn2wWYX4hGrH6QrfTaGySj5tG2ISxYpplBI4dWo9pjjmC_5HYPUmO8UdZpm_R8t5KVBhucC3eUhpz6jtq0kJi)-[北京](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%B8%82/126069?fromModule=lemma_search-box&fromtitle=%E5%8C%97%E4%BA%AC&fromid=128981)-[通州](https://baike.baidu.com/item/%E9%80%9A%E5%B7%9E%E5%8C%BA/5203?fromModule=lemma_search-box)-[北京物资学院](https://www.bwu.edu.cn/)-[信息学院](http://xxxy.bwu.edu.cn/)
 ---------------------------------------------------------------
 <h3>论文：</h3>
 <ul>
