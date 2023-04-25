@@ -82,7 +82,7 @@
       <li><td><a href="https://cc.ai55.cc/"><b>ChatGPT合集1</b></a></td></li>
       <li><td><a href="https://d0424.ai55.cc/"><b>ChatGPT合集2</b></a></td></li>
       <li><td><a href="https://poe.com/login?redirect_url=%2F"><b>Poe</b></a></td></li>
-      <li><td><a href="Chatbot.theb.ai"><b>Chatbot</b></a></td></li>
+      <li><td><a href="https://chatbot.theb.ai/#/chat/1002"><b>Chatbot</b></a></td></li>
       <li><td><a href="https://getquicker.net/Download"><b>Quicker</b></a></td></li>
       <li><td><a href="https://everything.en.softonic.com/"><b>Everything</b></a></td></li>
       <li><td><a href="https://www.7-zip.org/"><b>7-Zip</b></a></td></li>
