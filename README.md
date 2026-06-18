@@ -143,7 +143,7 @@
   </li>
 
   <li>
-    Tao Wang, <b>Hongjue Wang</b>, Yunzhu Li.
+    Tao Wang,Yunzhu Li, <b>Hongjue Wang</b>.
     <i>Analysis of Cascading Failure Based on a New Load Redistribution Model.</i>
     <b>International Conference on Logistics Engineering, Management and Computer Science</b>，LEMCS 2015, 2015.
   </li>
