@@ -1,4 +1,4 @@
-<img src="./王洪珏.jpg" width="200px" alt="王洪珏">
+<img src="./珏.jpg" width="200px" alt="王洪珏">
 
 # 欢迎访问王洪珏（Wang Hongjue）的学术主页
 
